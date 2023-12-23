@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_plus">#575151</color>
+    <color name="btn_Minus">#575151</color>
+    <color name="btn_Multiply">#feb062</color>
+    <color name="btn_Divide">#feb050</color>
+    <color name="background">#fafaf6</color>
+</resources>

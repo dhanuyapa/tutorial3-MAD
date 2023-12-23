@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tutorial3 mad</string>
+    <string name ="label_Number1">Number 1</string>
+    <string name="label_Number2">Number 2</string>
+    <string name="edit_number1"> </string>
+    <string name="edit_number2"> </string>
+    <string name="btn_plus">+</string>
+    <string name="btb_Minus">-</string>
+    <string name="btn_Multiply">X</string>
+    <string name="btn_Divide">/</string>
+</resources>
